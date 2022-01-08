@@ -1,0 +1,13 @@
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\Пользователь\Documents\Новая папка\c#\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
